@@ -1,2 +1,3 @@
 Ethan Mark
 market@oregonstate.edu
+blue
